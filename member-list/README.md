@@ -12,3 +12,5 @@
 
 下記の記入例を参考に記入してください。  
 [記入例](https://github.com/daigi-fit/publish/blob/main/member-list/docs/%E9%83%A8%E5%93%A1%E5%90%8D%E7%B0%BF%20%E8%A8%98%E5%85%A5%E4%BE%8B.pdf)  
+
+[案内文](https://github.com/daigi-fit/publish/blob/main/member-list/docs/%E4%BB%A4%E5%92%8C4%E5%B9%B4%E5%BA%A62%E6%9C%88%20%E9%83%A8%E5%93%A1%E5%90%8D%E7%B0%BF%E6%A1%88%E5%86%85%E6%9B%B8.pdf)
