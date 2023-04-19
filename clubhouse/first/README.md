@@ -26,3 +26,5 @@
 - 下記の参考資料を参照して記入してください。  
 [書類の説明](https://github.com/daigi-fit/publish/blob/main/clubhouse/first/docs/%E6%9B%B8%E9%A1%9E%E3%81%AE%E8%AA%AC%E6%98%8E.md)  
 記入が必要となる書類一覧や各書類の説明、記入例を記しています。  
+
+[案内文](https://github.com/daigi-fit/publish/blob/main/clubhouse/first/docs/%E9%83%A8%E5%AE%A4%E4%BD%BF%E7%94%A8%E3%81%AB%E9%96%A2%E3%81%99%E3%82%8B%E6%9B%B8%E9%A1%9E%20%E6%8F%90%E5%87%BA%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6.pdf)はこちら
