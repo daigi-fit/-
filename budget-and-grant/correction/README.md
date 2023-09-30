@@ -15,11 +15,11 @@
 
 ### 説明等
 - テンプレートのファイルです。ダウンロードして使用してください。  
-様式1: [令和5年度活動予算書及び活動支援金申請書](attach:./distribution/活動予算書及び活動支援金申請書-テンプレート.docx)(docx)  
-様式2: [年間収支額及び支援希望額表](attach:./distribution/年間収支額及び支援希望額表-テンプレート.xlsx)(xlsx)  
-様式3: [使途別金額明細書](attach:./distribution/使途別金額明細書-テンプレート.docx)(docx)  
-様式4: [施設利用費明細書](attach:./distribution/施設利用費明細書-テンプレート.docx)(docx)  
-様式5: [追加資料(表紙)](attach:./distribution/活動予算書及び活動支援金申請書%20追加資料%20表紙テンプレート.docx)(docx)  
+様式1: [令和5年度活動予算書及び活動支援金申請書](attach:/distribution/活動予算書及び活動支援金申請書-テンプレート.docx)(docx)  
+様式2: [年間収支額及び支援希望額表](attach:/distribution/年間収支額及び支援希望額表-テンプレート.xlsx)(xlsx)  
+様式3: [使途別金額明細書](attach:/distribution/使途別金額明細書-テンプレート.docx)(docx)  
+様式4: [施設利用費明細書](attach:/distribution/施設利用費明細書-テンプレート.docx)(docx)  
+様式5: [追加資料(表紙)](attach:/distribution/活動予算書及び活動支援金申請書%20追加資料%20表紙テンプレート.docx)(docx)  
 <br>
 
 - 提出先  
