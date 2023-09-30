@@ -15,11 +15,11 @@
 
 ### 説明等
 - テンプレートのファイルです。ダウンロードして使用してください。  
-様式1: [令和5年度活動予算書及び活動支援金申請書](attach:/distribution/活動予算書及び活動支援金申請書-テンプレート.docx)(docx)  
-様式2: [年間収支額及び支援希望額表](attach:/distribution/年間収支額及び支援希望額表-テンプレート.xlsx)(xlsx)  
-様式3: [使途別金額明細書](attach:/distribution/使途別金額明細書-テンプレート.docx)(docx)  
-様式4: [施設利用費明細書](attach:/distribution/施設利用費明細書-テンプレート.docx)(docx)  
-様式5: [追加資料(表紙)](attach:/distribution/活動予算書及び活動支援金申請書%20追加資料%20表紙テンプレート.docx)(docx)  
+様式1: [令和5年度活動予算書及び活動支援金申請書](https://github.com/daigi-fit/publish/raw/main/budget-and-grant/correction/distribution/%E6%B4%BB%E5%8B%95%E4%BA%88%E7%AE%97%E6%9B%B8%E5%8F%8A%E3%81%B3%E6%B4%BB%E5%8B%95%E6%94%AF%E6%8F%B4%E9%87%91%E7%94%B3%E8%AB%8B%E6%9B%B8-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.docx)(docx)  
+様式2: [年間収支額及び支援希望額表](https://github.com/daigi-fit/publish/raw/main/budget-and-grant/correction/distribution/%E5%B9%B4%E9%96%93%E5%8F%8E%E6%94%AF%E9%A1%8D%E5%8F%8A%E3%81%B3%E6%94%AF%E6%8F%B4%E5%B8%8C%E6%9C%9B%E9%A1%8D%E8%A1%A8-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.xlsx)(xlsx)  
+様式3: [使途別金額明細書](https://github.com/daigi-fit/publish/raw/main/budget-and-grant/correction/distribution/%E4%BD%BF%E9%80%94%E5%88%A5%E9%87%91%E9%A1%8D%E6%98%8E%E7%B4%B0%E6%9B%B8-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.docx)(docx)  
+様式4: [施設利用費明細書](https://github.com/daigi-fit/publish/raw/main/budget-and-grant/correction/distribution/%E6%96%BD%E8%A8%AD%E5%88%A9%E7%94%A8%E8%B2%BB%E6%98%8E%E7%B4%B0%E6%9B%B8-%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.docx)(docx)  
+様式5: [追加資料(表紙)](https://github.com/daigi-fit/publish/raw/main/budget-and-grant/correction/distribution/%E6%B4%BB%E5%8B%95%E4%BA%88%E7%AE%97%E6%9B%B8%E5%8F%8A%E3%81%B3%E6%B4%BB%E5%8B%95%E6%94%AF%E6%8F%B4%E9%87%91%E7%94%B3%E8%AB%8B%E6%9B%B8%20%E8%BF%BD%E5%8A%A0%E8%B3%87%E6%96%99%20%E8%A1%A8%E7%B4%99%E3%83%86%E3%83%B3%E3%83%97%E3%83%AC%E3%83%BC%E3%83%88.docx)(docx)  
 <br>
 
 - 提出先  
